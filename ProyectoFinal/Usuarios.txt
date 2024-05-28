@@ -1,0 +1,6 @@
+Martha,Martinez,123456711
+Luz,Diaz,123456722
+Giovanni,Casas,123456001
+Gerardo,Pliego,123456010
+Jamile,Rojas,123456011
+Leonel,Torres,123456014
